@@ -1,0 +1,60 @@
+body {
+  background-color: black;
+}
+
+#one {
+  color:white
+  text-align: center;
+  border-width: 3px;
+  border-radius: 8px;
+  border-style: double;
+	font-family: Times New Roman;
+	font-weight: lighter;
+	font-style: italic;
+  font-size:40px;
+
+}
+h2 {
+  text-align: center;
+  
+}
+h3 {
+  text-align:center;
+}
+h4 {
+  text-align:center;
+}
+
+p {
+  font-size: 20px;
+  color: white;
+  font-family: verdana;
+}
+.topnav{
+background-color: beige;
+overflow: hidden;
+}
+.topnav a{
+float: left;
+color: black;
+padding: 14px;
+text-decoration: none;
+font-size: 40px;
+font-family:georgia;
+}
+.brand{
+  margin-left: 110px;
+}
+.topnav a:hover{
+background-color: black;
+color:white;
+}
+.topnav a.active{
+background-color: lightblue;
+}
+ul{
+  font-size: 200%;
+}
+li{
+  text-align: center;
+}

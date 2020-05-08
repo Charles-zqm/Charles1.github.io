@@ -1,0 +1,96 @@
+body {
+  background-color: black;
+}
+
+#one {
+  color:white
+  text-align: center;
+  border-width: 3px;
+  border-style: double;
+  border-radius: 8px;
+	font-family: Times New Roman;
+	font-weight: lighter;
+  font-style: italic;
+  font-size:40px;
+
+}
+h2 {
+  text-align: center;
+  
+}
+h3 {
+  text-align:center
+}
+h4 {
+  text-align:center
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+.topnav{
+background-color: beige;
+overflow: hidden;
+}
+.topnav a{
+float: left;
+color: black;
+padding: 14px;
+text-decoration: none;
+font-size: 40px;
+font-family:georgia;
+}
+.brand{
+  margin-left: 110px;
+}
+.topnav a:hover{
+background-color: black;
+color:white;
+}
+.topnav a.active{
+background-color: lightblue;
+color:black;
+font-size: 40px
+}
+ul{
+  font-size: 200%
+}
+li{
+  text-align: center;
+}
+p{
+  text-align: center;
+  color: white
+}
+sup{
+  color: white
+}
+table,tr,td{
+  border:1px solid white;
+  color: white
+}
+
+table{
+  width:100%;
+  border-collapse: collapse;
+}
+tr{
+  height: 50px
+}
+tr{
+  text-align: center;
+}
+#shoes{
+  float: right;
+  border-style: solid;
+  border-color: white
+}
+#line{
+  font-weight: 900
+}
+#shoes2{
+   float: left;
+  border-style: solid;
+  border-color: white
+}
